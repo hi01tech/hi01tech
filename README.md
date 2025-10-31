@@ -99,7 +99,7 @@ Connect with me:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0BA6DF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0BA6DF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haneen-i-290a93305?)
 [![Email](https://img.shields.io/badge/Email-C80036?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imetrogfx@gmail.com)
 [![Github](https://img.shields.io/badge/Github-000B58?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/hi01tech)
 [![Portfolio](https://img.shields.io/badge/Portfolio-E95793?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
@@ -112,3 +112,5 @@ Connect with me:
 
    ### 💡 *"Open to collaborations and exciting opportunities!"* ✨
  </div>
+
+
